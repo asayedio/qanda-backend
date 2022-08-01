@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32126.317
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QandA", "QandA\QandA.csproj", "{5D90F86E-168A-48D4-8302-50D8E531B837}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QandA.Tests", "QandA.Tests\QandA.Tests.csproj", "{B32A520E-EB55-4FD9-84E3-443CE1B1CA14}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5D90F86E-168A-48D4-8302-50D8E531B837}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D90F86E-168A-48D4-8302-50D8E531B837}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D90F86E-168A-48D4-8302-50D8E531B837}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D90F86E-168A-48D4-8302-50D8E531B837}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B32A520E-EB55-4FD9-84E3-443CE1B1CA14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B32A520E-EB55-4FD9-84E3-443CE1B1CA14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B32A520E-EB55-4FD9-84E3-443CE1B1CA14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B32A520E-EB55-4FD9-84E3-443CE1B1CA14}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B9294CF1-8278-4BAE-8967-334A65203A8A}
+	EndGlobalSection
+EndGlobal
